@@ -6,7 +6,7 @@ public class Ifandelse3 {
         System.out.println("Enter first number");
         int x = sc.nextInt();
         if(x>0){
-            System.out.println("Enter is positive");
+            System.out.println("Number is positive");
         }
         else{
             System.out.println("Number is positive");
